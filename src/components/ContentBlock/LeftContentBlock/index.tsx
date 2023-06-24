@@ -36,7 +36,7 @@ const LeftContentBlock = ({
                   {typeof section === "object" &&
                     section.map((item: any, id: number) => {
                       return (
-                        <Col key={id} span={11}>
+                        <Col key={id} span={item.sz ?? 11}>
                           <SvgIcon src={item.icon} width="60px" height="60px" />
                           <MinTitle>{t(item.title)}</MinTitle>
                           <MinPara>{t(item.content)}</MinPara>

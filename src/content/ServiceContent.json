@@ -1,0 +1,32 @@
+[
+  {
+    "key": 1,
+    "label": "AAA",
+    "children": "aaa"
+  },
+  {
+    "key": 2,
+    "label": "BBB",
+    "children": "bbb"
+  },
+  {
+    "key": 3,
+    "label": "CCC",
+    "children": "ccc"
+  },
+  {
+    "key": 4,
+    "label": "DDD",
+    "children": "ddd"
+  },
+  {
+    "key": 5,
+    "label": "EEE",
+    "children": "eee"
+  },
+  {
+    "key": 6,
+    "label": "FFF",
+    "children": "fff"
+  }
+]

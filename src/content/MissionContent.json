@@ -1,4 +1,24 @@
 {
-  "title": "Ready made sections",
-  "text": "Landy comes with a set of ready to use sections to help you easily create a landing page for your own brand, with all the content your startup desires. In order to replace any dummy elements (text, image, etc..) all you need to do is go to content folder and input your real content."
+  "title": "Менежментийн тогтолцоог олон улсын стандартад нийцүүлж, тухайн бизнесийн онцлогт тохируулан зөвлөх үйлчилгээ үзүүлснээр нь",
+  "text": "Landy comes with a set of ready to use sections to help you easily create a landing page for your own brand, with all the content your startup desires. In order to replace any dummy elements (text, image, etc..) all you need to do is go to content folder and input your real content.",
+  "list": [
+    {
+      "id":1, "text": "Стратегийн болон менежментийн чиглэлээр нэгдсэн ойлголттой болж бизнесийн өсөлт хийх суурь нөхцлийг бүрдүүлнэ."
+    },
+    {
+      "id":2, "text": "Тогтвортой хөгжлийн зорилт хангагдаж, байгууллагын өрсөлдөх чадвар, тогтвортой байдал нэмэгдэнэ."
+    },
+    {
+      "id":3, "text": "Байгууллагын гүйцэтгэл сайжирснаар бүтээмжид суурилсан бизнесийн хөгжлийн бий болгоно."
+    },
+    {
+      "id":4, "text": "Санхүүгийн мэдээлэл, бүртгэл тайлагнал нээлттэй болж нөөцийн үр ашигтай байдал нэмэгдсэнээр санхүүгийн үзүүлэлтүүд сайжирч, сахилга бат нэмэгдэнэ."
+    },
+    {
+      "id":5, "text": "Эрсдэлд суурилсан сэтгэлээ, боломжинд суурилсан гүйцэтгэлийг хослуулсан хурдтай Ажайл менежментийн хандлага төлөвшинө."
+    },
+    {
+      "id":6, "text": "Менежментийн тогтолцооны тасралтгүй сайжруулалтын үйл явц бүрдэнэ."
+    }
+  ]
 }

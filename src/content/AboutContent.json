@@ -1,16 +1,22 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Бидний тухай",
+  "text": "И Пи Эф Эм Консалтинг ХХК нь Менежментийн зөвлөх үйлчилгээнд зориулсан удирдамж MNS ISO 20700 2017 стандартын дагуу үйл ажиллагаа явуулдаг.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Алсын хараа",
+      "content": "Бизнесийн хөгжлийн хурдыг нэмэгдүүлнэ.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Эрхэм зорилго",
+      "content": "Үр дүнд суурилсан, уян хатан, шинэлэг менежментийн шийдлийг бизнест нэвтрүүлж, өсөлтийг хамтдаа бүтээнэ.",
       "icon": "notes.svg"
+    },
+    {
+      "title": "Зөвлөх үйлчилгээ",
+      "content": "Манай менежментийн зөвлөх үйлчилгээ нь Стратеги, Маркетинг, Үйл ажиллагаа, Технологийн дэвшил, дижитал хэрэглээ, компанийн санхүү, нэгдэл, худалдан авалт зэрэг бүх салбарт харилцагчийнхаа хамгийн чухал асуудалд анхаарал хандуулдаг. ",
+      "icon": "notes.svg",
+      "sz": 24
     }
   ]
 }
